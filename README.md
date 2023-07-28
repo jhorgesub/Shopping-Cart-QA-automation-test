@@ -1,6 +1,7 @@
 # Proyecto QA
 
-*** Requisitos ***
+***Requisitos***
+
 -instalar y correr cypress
 * npm install cypress
 * npx cypress open
