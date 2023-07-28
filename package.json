@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-qa",
+  "version": "1.0.0",
+  "description": "Proyecto final QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "Testing"
+  ],
+  "author": "Jorge Subeldia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
